@@ -5,7 +5,8 @@ Additionally, there are implementations of ML/DL-specific algorithms like
 basic linear regression and Attention in various DSLs like PyTorch or JAX.
 
 # TODO:
-## Search problems (Data structures):
+## Basic Algorithms
+### Search problems (Data structures):
 - [ ] Static Array
 - [ ] Linked List
 - [ ] Dynamic Array
@@ -15,7 +16,7 @@ basic linear regression and Attention in various DSLs like PyTorch or JAX.
 - [ ] Balanced Binary Tree (AVL)
 - [ ] Binary Heap
 
-## Sort Algorithms:
+### Sort Algorithms:
 - [ ] Insertion Sort
 - [ ] Selection Sort
 - [ ] Merge Sort
@@ -24,7 +25,7 @@ basic linear regression and Attention in various DSLs like PyTorch or JAX.
 - [ ] AVL Sort
 - [ ] Heap Sort
 
-## Shortest Path Algorithms:
+### Shortest Path Algorithms:
 - [ ] Breadth-First Search
 - [ ] DAG Relaxation
 	- [ ] Depth-First Search
@@ -33,3 +34,12 @@ basic linear regression and Attention in various DSLs like PyTorch or JAX.
 - [ ] Dijkstra
 - [ ] Johnson
 - [ ] Floyd-Warshall
+
+## DL-Specific
+- [ ] Linear Regression
+- [ ] Logistic Regression
+- [ ] KNN
+- [ ] Attention
+- [ ] FlashAttention
+- [ ] Numerically-Stable Softmax
+- [ ] Autograd

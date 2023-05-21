@@ -7,7 +7,7 @@ basic linear regression and Attention in various DSLs like PyTorch or JAX.
 # TODO:
 ## Basic Algorithms
 ### Search problems (Data structures):
-- [ ] Static Array
+- [x] Static Array
 - [ ] Linked List
 - [ ] Dynamic Array
 - [ ] Sorted Array
@@ -26,17 +26,17 @@ basic linear regression and Attention in various DSLs like PyTorch or JAX.
 - [ ] Heap Sort
 
 ### Shortest Path Algorithms:
-- [ ] Breadth-First Search
-- [ ] DAG Relaxation
-	- [ ] Depth-First Search
-	- [ ] Topological Sort
+- [x] Breadth-First Search
+- [x] DAG Relaxation
+	- [x] Depth-First Search
+	- [x] Topological Sort
 - [ ] Bellman-Ford
 - [ ] Dijkstra
 - [ ] Johnson
 - [ ] Floyd-Warshall
 
 ## DL-Specific
-- [ ] Linear Regression
+- [x] Linear Regression
 - [ ] Logistic Regression
 - [ ] KNN
 - [ ] Attention

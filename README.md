@@ -39,7 +39,7 @@ basic linear regression and Attention in various DSLs like PyTorch or JAX.
 - [x] Linear Regression
 - [ ] Logistic Regression
 - [ ] KNN
-- [ ] Attention
+- [x] Attention
 - [ ] FlashAttention
 - [ ] Numerically-Stable Softmax
 - [ ] Autograd
